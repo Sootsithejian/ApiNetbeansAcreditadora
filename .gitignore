@@ -1,0 +1,18 @@
+# NetBeans / Ant
+build/
+dist/
+nbproject/private/
+
+# Credenciales locales (usa src/java/db.properties.example como plantilla)
+src/java/db.properties
+.env
+
+# Proyecto original de VS Code (repositorio aparte)
+acreditadora-api/
+
+# IDEs / SO
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
